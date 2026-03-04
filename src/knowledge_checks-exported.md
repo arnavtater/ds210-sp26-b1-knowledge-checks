@@ -30,7 +30,7 @@ In zsh or bash shell...
 <br><br>
 
 
----
+pwd
 
 
 
